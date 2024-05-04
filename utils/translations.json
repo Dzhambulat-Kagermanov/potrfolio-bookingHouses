@@ -1,0 +1,654 @@
+{
+  "RU": {
+    "header": {
+      "nav": {
+        "home": "Главная",
+        "hut": "Хижины",
+        "area": "Местность",
+        "booking": "Бронирование",
+        "about": "О нас",
+        "faq": "Вопросы",
+        "langMenuLabel": "Языки"
+      },
+      "bookingBtn": "Забронировать"
+    },
+    "homePage": {
+      "head": {
+        "slider": {
+          "content": {
+            "title": [
+              "Найдите отдых в ​​лесу",
+              "Будьте ближе к природе",
+              "Почувствуйте свободу",
+              "Проведите приятный досуг"
+            ],
+            "subtitle": [
+              "Приезжайте и остановитесь в нашем отеле-хижине Мариагер-фьорда в Дании.",
+              "Приезжайте и остановитесь в нашем отеле-хижине Мариагер-фьорда в Дании.",
+              "Приезжайте и остановитесь в нашем отеле-хижине Мариагер-фьорда в Дании.",
+              "Приезжайте и остановитесь в нашем отеле-хижине Мариагер-фьорда в Дании."
+            ]
+          }
+        },
+        "actionBar": {
+          "info": {
+            "textBefore": "от",
+            "textAfter": "за ночь"
+          }
+        }
+      },
+      "info": {
+        "content": {
+          "title": "Каюты",
+          "text": "Три эксклюзивных и комфортабельных каюты Lovtag — Et, Ro и Ly — спроектированы архитектором Сигурдом Ларсеном. Все они имеют открытое пространство с двуспальной кроватью, двуспальным диваном-кроватью, кухней, отдельным туалетом и душем на открытом воздухе. На крыше, окруженной верхушками деревьев, находится терраса, расположенная на высоте около девяти метров над землей. Коттеджи построены вокруг высоких старых деревьев, которые проходят через весь коттедж от пола до потолка.",
+          "button": "Узнать больше"
+        }
+      },
+      "map": {
+        "preloaderText": "Загрузка карты...",
+        "content": {
+          "title": "Лес"
+        }
+      },
+      "facilities": {
+        "title": "Удобства",
+        "content": {
+          "fridge": "Мини-холодильник",
+          "kitchen": "Мини-кухня",
+          "coffee": "Кофе-машина",
+          "kettle": "Электрический чайник",
+          "parking": "Стоянка",
+          "views": "Захватывающие виды",
+          "floorHeating": "Подогрев пола",
+          "v230": "230V",
+          "network": "Интернет",
+          "shower": "Душ",
+          "toilet": "Смывные туалеты",
+          "towels": "Постельное белье и полотенца"
+        }
+      },
+      "contacts": {
+        "title": "Будь на связи",
+        "subtitle": "Вестерборг, Дания",
+        "info": {
+          "phone": "+123 456 789 000",
+          "mail": "info@theglasshuts.com"
+        }
+      }
+    },
+    "hut": {
+      "head": {
+        "title": "Хижины"
+      },
+      "info": {
+        "outside": {
+          "title": "Снаружи",
+          "breakpoints": [
+            { "link": "Веранда", "imgId": 3 },
+            { "link": "Двор", "imgId": 1 }
+          ]
+        },
+        "inside": {
+          "title": "Внутри",
+          "breakpoints": [
+            { "link": "Спальня", "imgId": 5 },
+            { "link": "Кухня", "imgId": 2 },
+            { "link": "Ванная", "imgId": 3 }
+          ]
+        },
+        "practicalities": {
+          "title": "Практичность",
+          "breakpoints": [
+            { "link": "Завтрак", "imgId": 1 },
+            { "link": "Ужин", "imgId": 2 }
+          ]
+        }
+      }
+    },
+    "area": {
+      "head": {
+        "title": "Местность",
+        "content": {
+          "link": "Vesterborg, Дания",
+          "button": "Получить Направление"
+        }
+      },
+      "info": {
+        "restaurants": {
+          "title": "Рестораны & магазины",
+          "breakpoints": [
+            { "link": "Fisketorvet", "imgId": 3 },
+            { "link": "Noma", "imgId": 1 },
+            { "link": "Geranium", "imgId": 2 },
+            { "link": "Fiel's", "imgId": 4 }
+          ]
+        },
+        "experience": {
+          "title": "Отдых на природе",
+          "breakpoints": [
+            { "link": "Смотровая башня", "imgId": 2 },
+            { "link": "Тропа по мосту", "imgId": 3 }
+          ]
+        },
+        "drive": {
+          "title": "Прокатитесь",
+          "breakpoints": [
+            { "link": "Озеро", "imgId": 3 },
+            { "link": "Эресуннский Мост", "imgId": 1 }
+          ]
+        },
+        "charm": {
+          "title": "Чарующий городок",
+          "breakpoints": [
+            { "link": "Деревни", "imgId": 1 },
+            { "link": "Копенгаген", "imgId": 2 }
+          ]
+        }
+      }
+    },
+    "booking": {
+      "head": {
+        "title": "Бронирование"
+      },
+      "selectionPanel": {
+        "services": {
+          "additional": {
+            "title": "Выберите дополнительные услуги",
+            "accordions": {
+              "Breakfast1": {
+                "title": "Свежий завтрак #1",
+                "price": "400кр",
+                "content": [
+                  "Хлеб, кофе, молоко, сок и выбор спредов + начинки.",
+                  "Хлеб, кофе, молоко, сок и выбор спредов + начинки."
+                ]
+              },
+              "Breakfast2": {
+                "title": "Свежий завтрак #2",
+                "price": "500кр",
+                "content": [
+                  "Хлеб, кофе, молоко, сок и выбор спредов + начинки.",
+                  "Хлеб, кофе, молоко, сок и выбор спредов + начинки."
+                ]
+              },
+              "ClassicDinner1": {
+                "title": "Классический ужин #1",
+                "price": "600кр",
+                "content": [
+                  "Хлеб, кофе, молоко, сок и выбор спредов + начинки.",
+                  "Хлеб, кофе, молоко, сок и выбор спредов + начинки."
+                ]
+              },
+              "ClassicDinner2": {
+                "title": "Классический ужин #2",
+                "price": "800кр",
+                "content": [
+                  "Хлеб, кофе, молоко, сок и выбор спредов + начинки.",
+                  "Хлеб, кофе, молоко, сок и выбор спредов + начинки."
+                ]
+              },
+              "CarCharge": {
+                "title": "Зарядка электромобиля",
+                "price": "800кр",
+                "content": [
+                  "Хлеб, кофе, молоко, сок и выбор спредов + начинки.",
+                  "Хлеб, кофе, молоко, сок и выбор спредов + начинки."
+                ]
+              }
+            }
+          }
+        },
+        "price": {
+          "nightPrice": "ночь",
+          "nationalValute": "кр",
+          "discount": "скидка",
+          "actionBar": {
+            "dateCheckIn": "Въезд",
+            "dateCheckOut": "Выезд",
+            "guests": "Гости"
+          },
+          "content": {
+            "nights": "ночей"
+          },
+          "total": "Всего",
+          "promo": {
+            "input": "Код Промокода",
+            "button": "Применить"
+          }
+        }
+      },
+      "hutRules": {
+        "title": "Правила в хижине",
+        "content": [
+          "Въезд: 14:00–23:00.",
+          "Выезд: 11:00",
+          "Не подходит для детей и младенцев",
+          "Курение запрещено",
+          "Никаких домашних животных"
+        ]
+      },
+      "cancellation": {
+        "title": "Политика отмены",
+        "content": [
+          "Бесплатная отмена бронирования до 13:00 27 марта.",
+          "После этого отмените до 14:00 1 апреля и получите",
+          "Возврат 50 %, за вычетом стоимости первой ночи и платы за обслуживание."
+        ]
+      },
+      "importantInfo": {
+        "title": "Важная информация",
+        "content": [
+          "Вам нужно подняться на крутой холм, чтобы добраться до домиков на деревьях, это займет около 20-30 минут по тропе с лестницами и неровной поверхностью."
+        ]
+      }
+    },
+    "about": {
+      "head": {
+        "title": "О нас",
+        "content": {
+          "btn1": "связаться с нами",
+          "btn2": "Есть Вопросы?"
+        }
+      },
+      "info": {
+        "about": {
+          "title": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”",
+          "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. "
+        }
+      },
+      "gallery": {
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing..."
+      },
+      "form": {
+        "firstNameInp": "*Имя",
+        "lastNameInp": "Фамилия",
+        "emailInp": "*Email",
+        "subjectInp": "Тема",
+        "messageInp": "*Сообщение",
+        "button": "Отправить",
+        "inputErrorMessage": "Неверная запись"
+      }
+    },
+    "faq": {
+      "questions": {
+        "prices": [
+          "ЦЕНЫ",
+          [
+            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius minima ducimus eligendi, saepe repellat amet facilis aperiam soluta unde voluptate ex qui, quod delectus maxime? Repellendus ea aliquam ad recusandae?"
+          ]
+        ],
+        "cancellation": [
+          "ПОЛИТИКА ОТМЕНЫ",
+          [
+            "Отмена четыре недели",
+            "До этого = 100% возврат средств, при отмене за две недели = 50% возврат средств",
+            "Отмена позднее двух недель = полная оплата"
+          ]
+        ],
+        "walkUpToHut": [
+          "ПРОГУЛКА К СТЕКЛЯННОЙ ХИЖИНЕ",
+          [
+            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius minima ducimus eligendi, saepe repellat amet facilis aperiam soluta unde voluptate ex qui, quod delectus maxime? Repellendus ea aliquam ad recusandae?"
+          ]
+        ],
+        "capacity": [
+          "ПЛОЩАДЬ",
+          [
+            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius minima ducimus eligendi, saepe repellat amet facilis aperiam soluta unde voluptate ex qui, quod delectus maxime? Repellendus ea aliquam ad recusandae?"
+          ]
+        ],
+        "pets": [
+          "ПИТОМЦЫ",
+          [
+            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius minima ducimus eligendi, saepe repellat amet facilis aperiam soluta unde voluptate ex qui, quod delectus maxime? Repellendus ea aliquam ad recusandae?"
+          ]
+        ],
+        "check": [
+          "ПРИБЫТИЕ / ОТЪЕЗД",
+          [
+            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius minima ducimus eligendi, saepe repellat amet facilis aperiam soluta unde voluptate ex qui, quod delectus maxime? Repellendus ea aliquam ad recusandae?"
+          ]
+        ]
+      }
+    },
+    "footer": {
+      "newsletter": {
+        "title": "Рассылка",
+        "fieldPlaceholder": "Email Адрес",
+        "subtitle": "Подпишитесь на нашу рассылку, чтобы узнавать о специальных вещах, и получите скидку 10% на следующий заказ.",
+        "endingText": "© 2024 The Glass Huts"
+      },
+      "links": {
+        "termsLink": "УСЛОВИЯ И ПОЛОЖЕНИЯ",
+        "cancellationPolicylink": "ПОЛИТИКА ОТМЕНЫ",
+        "privacyPolicyLink": "ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ"
+      }
+    }
+  },
+  "EN": {
+    "header": {
+      "nav": {
+        "home": "Home",
+        "hut": "The Hut",
+        "area": "The Area",
+        "booking": "Booking",
+        "about": "About Us",
+        "faq": "FAQ",
+        "langMenuLabel": "Langs"
+      },
+      "bookingBtn": "Booking now"
+    },
+    "homePage": {
+      "head": {
+        "slider": {
+          "content": {
+            "title": [
+              "Find rest in the forest",
+              "Get closer to nature",
+              "Feel the freedom",
+              "Have a pleasant time"
+            ],
+            "subtitle": [
+              "Come and stay in out hut hotel near Mariager Fjord in Denmark",
+              "Come and stay in out hut hotel near Mariager Fjord in Denmark",
+              "Come and stay in out hut hotel near Mariager Fjord in Denmark",
+              "Come and stay in out hut hotel near Mariager Fjord in Denmark"
+            ]
+          }
+        },
+        "actionBar": {
+          "info": {
+            "textBefore": "from",
+            "textAfter": "per night"
+          }
+        }
+      },
+      "info": {
+        "content": {
+          "title": "The Cabins",
+          "text": "Lovtag’s three exclusive and comfortable cabins, Et, Ro and Ly, are designed by architect Sigurd Larsen. They all have an open space with a double bed, a double sofa bed, kitchen, separate toilet and an outdoor shower. On the roof, surrounded by treetops, there is a terrace, which is about nine meters above ground. The cottages are built around tall, old trees that go through the entire cottage from floor to ceiling.",
+          "button": "Read more"
+        }
+      },
+      "map": {
+        "preloaderText": "Загрузка карты...",
+        "content": {
+          "title": "The Forest"
+        }
+      },
+      "facilities": {
+        "title": "Facilities",
+        "content": {
+          "fridge": "Mini fridge",
+          "kitchen": "Kitchenette",
+          "coffee": "Coffee machine",
+          "kettle": "Electric tea kettle",
+          "parking": "Parking",
+          "views": "Breathtaking views",
+          "floorHeating": "Floor heating",
+          "v230": "230V",
+          "network": "Network",
+          "shower": "Shower",
+          "toilet": "Flushing toilets",
+          "towels": "Bedding & towels"
+        }
+      },
+      "contacts": {
+        "title": "Stay in touch with us",
+        "subtitle": "Vesterborg, Denmark",
+        "info": {
+          "phone": "+123 456 789 000",
+          "mail": "info@theglasshuts.com"
+        }
+      }
+    },
+    "hut": {
+      "head": {
+        "title": "The Hut"
+      },
+      "info": {
+        "outside": {
+          "title": "Outside",
+          "breakpoints": [
+            { "link": "Veranda", "imgId": 3 },
+            { "link": "Courtyard", "imgId": 1 }
+          ]
+        },
+        "inside": {
+          "title": "Inside",
+          "breakpoints": [
+            { "link": "Bedroom", "imgId": 5 },
+            { "link": "Kitchen", "imgId": 2 },
+            { "link": "Bathroom", "imgId": 3 }
+          ]
+        },
+        "practicalities": {
+          "title": "Practicalities",
+          "breakpoints": [
+            { "link": "Breakfast", "imgId": 1 },
+            { "link": "Dinner", "imgId": 2 }
+          ]
+        }
+      }
+    },
+    "area": {
+      "head": {
+        "title": "The Area",
+        "content": {
+          "link": "Vesterborg, Denmark",
+          "button": "Get Directions"
+        }
+      },
+      "info": {
+        "restaurants": {
+          "title": "Restaurants & shopping",
+          "breakpoints": [
+            { "link": "Fisketorvet", "imgId": 3 },
+            { "link": "Noma", "imgId": 1 },
+            { "link": "Geranium", "imgId": 2 },
+            { "link": "Fiel's", "imgId": 4 }
+          ]
+        },
+        "experience": {
+          "title": "Experiences in nature",
+          "breakpoints": [
+            { "link": "Treetop Experience", "imgId": 2 },
+            { "link": "Treetop Walkway", "imgId": 3 }
+          ]
+        },
+        "drive": {
+          "title": "Go for a drive",
+          "breakpoints": [
+            { "link": "Lake", "imgId": 3 },
+            { "link": "Oresund Bridge", "imgId": 1 }
+          ]
+        },
+        "charm": {
+          "title": "Small-town charm",
+          "breakpoints": [
+            { "link": "Villages", "imgId": 1 },
+            { "link": "Copenhagen", "imgId": 2 }
+          ]
+        }
+      }
+    },
+    "booking": {
+      "head": {
+        "title": "Booking"
+      },
+      "selectionPanel": {
+        "services": {
+          "additional": {
+            "title": "Choose Additional Services",
+            "accordions": {
+              "Breakfast1": {
+                "title": "Fresh Breakfast #1",
+                "price": "400kr",
+                "content": [
+                  "Bread, Coffee, milk, juice, and a selection of spreads + toppings",
+                  "Bread, Coffee, milk, juice, and a selection of spreads + toppings"
+                ]
+              },
+              "Breakfast2": {
+                "title": "Fresh Breakfast #2",
+                "price": "500kr",
+                "content": [
+                  "Bread, Coffee, milk, juice, and a selection of spreads + toppings",
+                  "Bread, Coffee, milk, juice, and a selection of spreads + toppings"
+                ]
+              },
+              "ClassicDinner1": {
+                "title": "Classic Dinner #1",
+                "price": "600kr",
+                "content": [
+                  "Bread, Coffee, milk, juice, and a selection of spreads + toppings",
+                  "Bread, Coffee, milk, juice, and a selection of spreads + toppings"
+                ]
+              },
+              "ClassicDinner2": {
+                "title": "Classic Dinner #2",
+                "price": "800kr",
+                "content": [
+                  "Bread, Coffee, milk, juice, and a selection of spreads + toppings",
+                  "Bread, Coffee, milk, juice, and a selection of spreads + toppings"
+                ]
+              },
+              "CarCharge": {
+                "title": "Electric Car Charge",
+                "price": "800kr",
+                "content": [
+                  "Bread, Coffee, milk, juice, and a selection of spreads + toppings",
+                  "Bread, Coffee, milk, juice, and a selection of spreads + toppings"
+                ]
+              }
+            }
+          }
+        },
+        "price": {
+          "nightPrice": "night",
+          "nationalValute": "кр",
+          "discount": "discount",
+          "actionBar": {
+            "dateCheckIn": "Check in",
+            "dateCheckOut": "Check out",
+            "guests": "Guests"
+          },
+          "content": {
+            "nights": "nights"
+          },
+          "total": "Total",
+          "promo": {
+            "input": "Coupon Code",
+            "button": "Apply"
+          }
+        }
+      },
+      "hutRules": {
+        "title": "Hut rules",
+        "content": [
+          "Check-in:  2:00 PM - 11:00 PM",
+          "Checkout: 11:00 AM",
+          "Not suitable for children and infants",
+          "No smoking",
+          "No pets"
+        ]
+      },
+      "cancellation": {
+        "title": "Cancellation policy",
+        "content": [
+          "Free cancellation until 1:00 PM on Mar 27",
+          "After that, cancel before 2:00 PM on Apr 1 and get a",
+          "50% refund, minus the first night and service fee"
+        ]
+      },
+      "importantInfo": {
+        "title": "Important Information",
+        "content": [
+          "You need to hike a steep hill to arrive at the treehouses, it takes approx 20-30 minutes on a trail with stairs and uneven ground"
+        ]
+      }
+    },
+    "about": {
+      "head": {
+        "title": "About Us",
+        "content": {
+          "btn1": "contact us",
+          "btn2": "read FAQ"
+        }
+      },
+      "info": {
+        "about": {
+          "title": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”",
+          "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. "
+        }
+      },
+      "gallery": {
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing..."
+      },
+      "form": {
+        "firstNameInp": "*First name",
+        "lastNameInp": "Last name",
+        "emailInp": "*Email",
+        "subjectInp": "Subject",
+        "messageInp": "*Message",
+        "button": "Submit",
+        "inputErrorMessage": "Incorrect entry"
+      }
+    },
+    "faq": {
+      "questions": {
+        "prices": [
+          "prices",
+          [
+            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius minima ducimus eligendi, saepe repellat amet facilis aperiam soluta unde voluptate ex qui, quod delectus maxime? Repellendus ea aliquam ad recusandae?"
+          ]
+        ],
+        "cancellation": [
+          "CANCELLATION POLICY",
+          [
+            "Cancellation four weeks",
+            "prior = 100% refund, Cancellation two weeks prior = 50% refund",
+            "Cancellation later than two weeks = full payment"
+          ]
+        ],
+        "walkUpToHut": [
+          "THE WALK UP TO GLASS HUT",
+          [
+            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius minima ducimus eligendi, saepe repellat amet facilis aperiam soluta unde voluptate ex qui, quod delectus maxime? Repellendus ea aliquam ad recusandae?"
+          ]
+        ],
+        "capacity": [
+          "CAPACITY",
+          [
+            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius minima ducimus eligendi, saepe repellat amet facilis aperiam soluta unde voluptate ex qui, quod delectus maxime? Repellendus ea aliquam ad recusandae?"
+          ]
+        ],
+        "pets": [
+          "PETS",
+          [
+            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius minima ducimus eligendi, saepe repellat amet facilis aperiam soluta unde voluptate ex qui, quod delectus maxime? Repellendus ea aliquam ad recusandae?"
+          ]
+        ],
+        "check": [
+          "CHECK-IN / CHECK-OUT",
+          [
+            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius minima ducimus eligendi, saepe repellat amet facilis aperiam soluta unde voluptate ex qui, quod delectus maxime? Repellendus ea aliquam ad recusandae?"
+          ]
+        ]
+      }
+    },
+    "footer": {
+      "newsletter": {
+        "title": "Newsletter",
+        "fieldPlaceholder": "Email Address",
+        "subtitle": "Sign up to our newsletter for special things and receive 10% off your next order.",
+        "endingText": "© 2024 The Glass Huts"
+      },
+      "links": {
+        "termsLink": "TERMS AND CONDITIONS",
+        "cancellationPolicylink": "CANCELLATION POLICY",
+        "privacyPolicyLink": "PRIVACY POLICY"
+      }
+    }
+  }
+}

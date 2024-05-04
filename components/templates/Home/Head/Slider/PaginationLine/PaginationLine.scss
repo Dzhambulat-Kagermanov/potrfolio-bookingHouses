@@ -1,0 +1,21 @@
+#home-head-pagination__line {
+  position: absolute !important;
+  top: 50%;
+  width: 300px;
+  height: 3px;
+  z-index: 3;
+  position: relative;
+  transform: rotate(90deg) translateX(-50%);
+  transform-origin: left center;
+  background: rgb(255, 255, 255, 0.25);
+  .swiper-scrollbar-drag {
+    height: 100%;
+    background: rgb(255, 255, 255);
+  }
+}
+
+@media screen and (max-width: 480px) {
+  #home-head-pagination__line {
+    width: 250px;
+  }
+}

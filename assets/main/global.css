@@ -1,0 +1,51 @@
+:root {
+  --var: red;
+  --primaryDarkGrey: #5b6460;
+  --primaryDarkGreyHover: #84918b;
+  --primaryLightGrey: #e9ece0;
+  --textDarkGrey: #333333;
+  --textLightGreen: #3ed291;
+}
+body {
+  font-family: OpenSansR !important;
+}
+/* .container {
+  overflow: hidden;
+  max-width: 1920px;
+  margin: 0 auto;
+  position: relative;
+}
+.wrapper {
+  width: 100%;
+  position: relative;
+}
+.inner {
+  max-width: 1660px;
+  margin: 0 auto;
+  padding: 0 20px;
+  position: relative;
+} */
+.--dev {
+  background-color: pink;
+}
+.--parentBlock {
+  margin: 0 0 100px 0;
+}
+@media screen and (max-width: 480px) {
+  .--parentBlock {
+    margin: 0 0 70px 0;
+  }
+}
+.--flexCenterJC {
+  display: flex;
+  justify-content: center;
+}
+.--flexCenterAI {
+  display: flex;
+  align-items: center;
+}
+.--flexCenterFULL {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
