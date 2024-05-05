@@ -6,9 +6,9 @@ export const infoCarouselSlidersInsideData = [
   { id: 5, img: '/images/Hut/Info/Inside/item-5.png', type: 'Inside' },
 ]
 export const infoCarouselSlidersOutsideData = [
-  { id: 1, img: '/images/Hut/Info/Outside/Item-1.png', type: 'Outside' },
-  { id: 2, img: '/images/Hut/Info/Outside/Item-2.png', type: 'Outside' },
-  { id: 3, img: '/images/Hut/Info/Outside/Item-3.png', type: 'Outside' },
+  { id: 1, img: '/images/Hut/Info/Outside/item-1.png', type: 'Outside' },
+  { id: 2, img: '/images/Hut/Info/Outside/item-2.png', type: 'Outside' },
+  { id: 3, img: '/images/Hut/Info/Outside/item-3.png', type: 'Outside' },
 ]
 export const infoCarouselSlidersPracticalitiesData = [
   {

@@ -50,7 +50,7 @@ const MapElem: FC<IMapProps> = ({ coordinates, styles, classNames }) => {
             options={{
               openHintOnHover: true,
               iconLayout: 'default#image',
-              iconImageHref: '/images/shared/mapLabel.svg',
+              iconImageHref: '/images/Shared/mapLabel.svg',
               iconImageSize: [150, 150],
               iconImageOffset: [-3, -42],
             }}

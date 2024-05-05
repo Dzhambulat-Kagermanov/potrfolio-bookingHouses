@@ -15,6 +15,7 @@ const Item: FC<SliderItemProps> = ({ img, styles, title, subtitle }) => {
     <>
       <Content title={title} subtitle={subtitle} />
       <Image
+        priority
         src={img}
         width={0}
         height={0}

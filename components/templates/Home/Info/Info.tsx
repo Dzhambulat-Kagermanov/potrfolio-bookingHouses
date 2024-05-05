@@ -42,7 +42,7 @@ const Info: FC = () => {
             zIndex: -1,
             width: { tablet: '50%', xs: '60%' },
             height: '100%',
-            right: { tablet: 'auto', xs: 0 },
+            right: { tablet: 'auto', xs: '16px' },
           }}
         />
       </Container>
