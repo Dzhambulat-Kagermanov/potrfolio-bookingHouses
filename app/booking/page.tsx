@@ -1,3 +1,5 @@
+'use client'
+
 import BookingPage from '@/components/templates/Booking/Booking'
 import { FC } from 'react'
 

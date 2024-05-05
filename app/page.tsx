@@ -1,3 +1,5 @@
+'use client'
+
 import HomePage from '@/components/templates/Home/Home'
 import { FC } from 'react'
 

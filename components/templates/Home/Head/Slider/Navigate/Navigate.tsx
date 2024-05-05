@@ -1,3 +1,5 @@
+'use client'
+
 import ActionBtn from '@/components/ui/Buttons/ActionBtn'
 import { Box } from '@mui/material'
 import { FC } from 'react'
@@ -5,13 +7,6 @@ import { useSwiper } from 'swiper/react'
 
 const Navigate: FC = () => {
   const swiper = useSwiper()
-  document.addEventListener('keydown', (event) => {
-    if (event.key == 'ArrowRight') {
-      swiper.slideNext()
-    } else if (event.key == 'ArrowLeft') {
-      swiper.slidePrev()
-    }
-  })
 
   return (
     <Box

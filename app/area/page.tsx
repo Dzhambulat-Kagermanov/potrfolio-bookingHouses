@@ -1,3 +1,5 @@
+'use client'
+
 import AreaPage from '@/components/templates/Area/Area'
 import { FC } from 'react'
 

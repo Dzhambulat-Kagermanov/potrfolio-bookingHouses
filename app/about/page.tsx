@@ -1,3 +1,5 @@
+'use client'
+
 import AboutPage from '@/components/templates/About/About'
 import { FC } from 'react'
 
