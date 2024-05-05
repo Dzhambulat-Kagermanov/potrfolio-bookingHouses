@@ -24,4 +24,4 @@
 
 ---
 
-### Ссылка на сайт: [Нажми на меня](https://dzhambulat-kagermanov.github.io/portfolio-bookingHouses/)
+### Ссылка на сайт: [Нажми на меня](https://potrfolio-booking-houses.vercel.app/)
