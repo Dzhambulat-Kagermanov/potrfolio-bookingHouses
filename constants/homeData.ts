@@ -1,19 +1,19 @@
 export const homeHeadSliderSlides = [
   {
     id: 3,
-    img: '/images/Home/Head/item-3.png',
+    img: '/images/Home/Head/Item-3.png',
   },
   {
     id: 4,
-    img: '/images/Home/Head/item-4.png',
+    img: '/images/Home/Head/Item-4.png',
   },
   {
     id: 1,
-    img: '/images/Home/Head/item-1.png',
+    img: '/images/Home/Head/Item-1.png',
   },
   {
     id: 2,
-    img: '/images/Home/Head/item-2.png',
+    img: '/images/Home/Head/Item-2.png',
   },
 ]
 
