@@ -11,6 +11,7 @@
 - #### Next.JS
 - #### Redux Toolkit
 - #### Material UI
+- #### Немного SASS
 
 ---
 
